@@ -1,0 +1,44 @@
+.coins {
+        font-family: 'Poppins';
+        max-width: 1140px;
+        text-align: center;
+        margin: auto;
+}
+
+.coins .heading {
+    display:flex;
+    justify-content: space-between;
+    font-weight: 600;
+    text-align: center;
+    margin: 2rem 1rem;
+    padding: .7rem 1rem;
+}
+
+.coins .name {
+    margin-left: -4rem;
+}
+.coin .rows {
+    display:flex;
+    justify-content: space-between;
+    margin: 2rem 1rem;
+    padding: .7rem 1rem;
+    text-align: center;
+}
+
+.coins .imgs {
+    width: 40px;
+    margin-right: 8px;
+align-items:center ;
+    margin: 0;
+}
+.coins img-symbol {
+   display: flex; 
+}
+
+
+@media screen and (max-width:640px) {
+    .coins .hide {
+    display: none;
+    }
+    
+}

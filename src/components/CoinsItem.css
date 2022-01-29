@@ -1,0 +1,9 @@
+.coins {
+    background: rgb(71, 48, 124);
+    font-family: 'Poppins';
+
+}
+
+.coins .imgs {
+    width: 50px;
+}

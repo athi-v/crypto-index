@@ -1,0 +1,16 @@
+header {
+    font-family: 'Poppins';
+
+}
+header .container-fluid {
+    padding: 1% 6%;
+}
+header .navbar-brand {
+    color: #000;
+    font-size: 2rem;
+}
+header h1 {
+    text-align: center;
+    font-weight: 800;
+}
+
